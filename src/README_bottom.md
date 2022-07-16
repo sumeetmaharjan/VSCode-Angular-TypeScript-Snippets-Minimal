@@ -1,34 +1,4 @@
 
-
-## Installation (Mac)
-
-1. Launch VS Code 
-2. Quick Open (⌘+P)
-3. Enter the following command and press enter: 'ext install Angular-BeastCode'
-4. Choose extension (Author: Mikael Morlund)
-5. Reload VS Code 
-
-
-## Installation (Windows, Linux)
-
-1. Launch VS Code 
-2. Quick Open (Ctrl-Shift-P)
-3. Enter the following command and press enter: 'ext install Angular-BeastCode'
-4. Choose extension (Author: Mikael Morlund)
-5. Reload VS Code 
-
-
-## Emmets
-If you want intellisense to show emmets before the snippets, you can force the emmets suggestions to show up at the top, by add the following to your editor user settings:
-
-```javascript
-{
-  "emmet.showSuggestionsAsSnippets": true,
-  "editor.snippetSuggestions": "top"
-}
-```
-
-
 ## Feedback
 
 Please send any feedback or suggestions to @Mike_BeastCode (Twitter) or create an issue on GitHub.
